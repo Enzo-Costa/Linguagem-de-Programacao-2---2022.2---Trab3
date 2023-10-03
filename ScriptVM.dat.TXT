@@ -1,0 +1,2 @@
+export CLASSPATH = /home/alunos/lp2/g05/Trabalhos/P3n
+java P3nX

@@ -1,0 +1,6 @@
+@echo off
+
+set CLASSPATH = C:\Users\enzom\OneDrive\Ambiente de Trabalho\Trab 3 - LP2
+java P3nX
+
+pause
